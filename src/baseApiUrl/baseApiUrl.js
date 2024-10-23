@@ -1,0 +1,1 @@
+export const baseApiUrl = "https://menu-list-deep-net-soft-backend.onrender.com"
